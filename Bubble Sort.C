@@ -19,7 +19,7 @@ int main() {
     
     bubbleSort(arr, n);
     
-    printf("Sorted array: ");
+    printf("Sorted array: 11");
     for (int i = 0; i < n; i++) {
         printf("%d ", arr[i]);
     }
